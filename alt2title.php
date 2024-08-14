@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: ALT2Title: Image Alt Text to Title Converter
-Description: Copies image alt texts in media library and replaces the current image titles. Includes bulk processing feature.
+Plugin Name: ALT2Title: Image Alt to Title Sync
+Description: Syncs image alt texts in media library and replaces the current image titles. Includes bulk processing feature.
 Version: 1.0
 Author: DeepakNess
 Author URI: https://deepakness.com

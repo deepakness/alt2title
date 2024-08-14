@@ -1,6 +1,6 @@
-# ALT2Title: Image Alt Text to Title Converter
+# ALT2Title: Image Alt to Title Sync
 
-ALT2Title is a WordPress plugin that simplifies the process of updating image titles in your media library by copying the alt text to the title field. This plugin is perfect for users who want to maintain consistency between their image alt texts and titles, or for those looking to bulk update image titles based on existing alt texts.
+ALT2Title is a WordPress plugin that simplifies the process of updating image titles in your media library by copying/syncing the alt text to the title field. This plugin is perfect for users who want to maintain consistency between their image alt texts and titles, or for those looking to bulk update image titles based on existing alt texts.
 
 ## Features
 

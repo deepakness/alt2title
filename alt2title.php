@@ -2,7 +2,7 @@
 /*
 Plugin Name: ALT2Title: Image Alt to Title Sync
 Description: Syncs image alt texts in media library and replaces the current image titles. Includes bulk processing feature.
-Version: 1.0
+Version: 1.1
 Author: DeepakNess
 Author URI: https://deepakness.com
 */

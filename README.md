@@ -22,7 +22,7 @@ ALT2Title is a WordPress plugin that simplifies the process of updating image ti
 1. In your WordPress admin panel, go to `Tools` > `ALT2Title`.
 2. Click the "**Process Images**" button to update all image titles in your media library.
 
-![Screenshot - Processing All Images using ALT2Title](screenshot.png)
+![Screenshot - Processing All Images using ALT2Title](screenshot-1.png)
 
 ## Contributing
 
